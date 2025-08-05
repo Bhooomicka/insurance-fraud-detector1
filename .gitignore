@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore SQLite database
+*.db
+
+# Ignore images and other outputs
+images/
+*.png
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore OS metadata
+.DS_Store
+

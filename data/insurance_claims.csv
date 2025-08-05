@@ -1,0 +1,9 @@
+age,policy_state,incident_type,incident_severity,total_claim_amount,fraud_reported
+45,IN,Single Vehicle Collision,Major Damage,12000,1
+52,OH,Multi-vehicle Collision,Minor Damage,3500,0
+36,IL,Parked Car,Minor Damage,1500,0
+28,IL,Vehicle Theft,Total Loss,23000,1
+60,OH,Single Vehicle Collision,Major Damage,12500,1
+34,IN,Multi-vehicle Collision,Minor Damage,2700,0
+40,IN,Vehicle Theft,Total Loss,19000,1
+50,OH,Parked Car,Minor Damage,1800,0

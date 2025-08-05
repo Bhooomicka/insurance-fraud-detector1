@@ -1,0 +1,201 @@
+age,policy_state,incident_type,incident_severity,total_claim_amount,fraud_reported
+41,OH,Vehicle Theft,Total Loss,6439,1
+72,IL,Single Vehicle Collision,Total Loss,19929,0
+47,OH,Multi-vehicle Collision,Major Damage,23433,0
+29,OH,Multi-vehicle Collision,Total Loss,8625,1
+45,IL,Parked Car,Minor Damage,12242,1
+43,IN,Multi-vehicle Collision,Major Damage,23969,1
+58,OH,Single Vehicle Collision,Minor Damage,6016,1
+68,OH,Parked Car,Minor Damage,13590,1
+60,IN,Single Vehicle Collision,Minor Damage,13610,1
+70,IL,Single Vehicle Collision,Total Loss,22786,0
+63,IL,Vehicle Theft,Minor Damage,14496,1
+64,IN,Parked Car,Minor Damage,1485,0
+52,OH,Multi-vehicle Collision,Major Damage,8887,1
+41,IN,Single Vehicle Collision,Total Loss,6654,0
+65,IL,Multi-vehicle Collision,Minor Damage,23057,1
+53,IL,Vehicle Theft,Minor Damage,24584,1
+46,IN,Single Vehicle Collision,Total Loss,11372,0
+40,IL,Single Vehicle Collision,Major Damage,5994,1
+58,OH,Vehicle Theft,Minor Damage,1312,1
+24,OH,Single Vehicle Collision,Major Damage,6873,1
+40,IN,Multi-vehicle Collision,Major Damage,13367,1
+38,OH,Multi-vehicle Collision,Minor Damage,19835,0
+21,IN,Vehicle Theft,Minor Damage,17466,0
+74,OH,Multi-vehicle Collision,Total Loss,23292,0
+57,IL,Vehicle Theft,Total Loss,9981,0
+34,IL,Single Vehicle Collision,Minor Damage,12668,1
+71,IL,Single Vehicle Collision,Total Loss,20127,0
+70,OH,Single Vehicle Collision,Minor Damage,23119,0
+35,OH,Single Vehicle Collision,Major Damage,19040,0
+69,IN,Single Vehicle Collision,Total Loss,22138,1
+26,IN,Single Vehicle Collision,Minor Damage,13756,0
+62,OH,Multi-vehicle Collision,Major Damage,5489,1
+67,IL,Vehicle Theft,Major Damage,12343,0
+61,IL,Single Vehicle Collision,Minor Damage,16212,1
+37,IL,Single Vehicle Collision,Total Loss,5146,1
+72,IN,Vehicle Theft,Minor Damage,11401,1
+61,OH,Single Vehicle Collision,Minor Damage,14453,0
+43,IL,Vehicle Theft,Minor Damage,23983,1
+24,OH,Vehicle Theft,Total Loss,20653,0
+37,OH,Parked Car,Major Damage,11235,1
+61,OH,Multi-vehicle Collision,Major Damage,19052,1
+75,IN,Single Vehicle Collision,Minor Damage,14421,1
+56,OH,Multi-vehicle Collision,Total Loss,11901,1
+36,OH,Single Vehicle Collision,Total Loss,2605,0
+53,IL,Multi-vehicle Collision,Total Loss,15396,1
+29,OH,Multi-vehicle Collision,Total Loss,8761,0
+38,IN,Vehicle Theft,Total Loss,14545,1
+61,OH,Single Vehicle Collision,Minor Damage,6756,1
+39,IL,Parked Car,Total Loss,19509,0
+40,OH,Vehicle Theft,Total Loss,12271,0
+57,IL,Parked Car,Total Loss,9005,0
+68,IL,Single Vehicle Collision,Total Loss,11233,1
+35,IL,Parked Car,Minor Damage,2542,0
+57,IN,Parked Car,Total Loss,8527,0
+22,OH,Single Vehicle Collision,Minor Damage,18958,1
+28,IL,Vehicle Theft,Major Damage,7725,1
+24,IL,Parked Car,Minor Damage,18176,0
+26,IL,Parked Car,Major Damage,6239,1
+31,IN,Multi-vehicle Collision,Minor Damage,2060,0
+75,IL,Multi-vehicle Collision,Minor Damage,8012,1
+32,IL,Single Vehicle Collision,Minor Damage,18779,0
+62,IN,Single Vehicle Collision,Total Loss,6349,0
+43,OH,Vehicle Theft,Major Damage,18204,1
+57,OH,Parked Car,Minor Damage,24134,1
+61,IL,Multi-vehicle Collision,Total Loss,19084,0
+67,IL,Vehicle Theft,Total Loss,10971,1
+73,IN,Vehicle Theft,Minor Damage,10788,0
+49,IL,Single Vehicle Collision,Minor Damage,4554,1
+34,OH,Parked Car,Total Loss,8589,0
+28,OH,Single Vehicle Collision,Minor Damage,9814,1
+48,OH,Single Vehicle Collision,Major Damage,21862,0
+61,IL,Parked Car,Total Loss,14333,0
+22,IN,Parked Car,Major Damage,15861,1
+61,IN,Parked Car,Major Damage,1395,0
+29,IL,Single Vehicle Collision,Major Damage,1597,0
+42,OH,Parked Car,Total Loss,23077,0
+19,OH,Single Vehicle Collision,Minor Damage,6640,1
+71,IL,Multi-vehicle Collision,Minor Damage,18573,0
+54,IN,Parked Car,Total Loss,9303,1
+74,IL,Parked Car,Total Loss,3450,1
+57,OH,Single Vehicle Collision,Total Loss,4592,0
+22,IL,Multi-vehicle Collision,Total Loss,12658,0
+43,OH,Single Vehicle Collision,Total Loss,17515,1
+32,OH,Parked Car,Total Loss,14501,1
+75,IN,Vehicle Theft,Total Loss,8203,1
+74,IL,Multi-vehicle Collision,Minor Damage,10089,1
+42,IL,Parked Car,Minor Damage,14608,0
+63,IN,Parked Car,Minor Damage,16135,1
+58,IL,Single Vehicle Collision,Major Damage,7758,1
+33,IN,Parked Car,Total Loss,23716,1
+35,IN,Vehicle Theft,Minor Damage,13213,1
+31,IN,Parked Car,Total Loss,22111,0
+27,OH,Single Vehicle Collision,Total Loss,20401,1
+55,IN,Single Vehicle Collision,Total Loss,9647,1
+50,IN,Vehicle Theft,Major Damage,21803,0
+37,IL,Parked Car,Total Loss,19923,1
+20,OH,Vehicle Theft,Major Damage,20892,1
+55,IL,Multi-vehicle Collision,Minor Damage,23715,0
+32,IN,Single Vehicle Collision,Minor Damage,16612,1
+56,IN,Vehicle Theft,Total Loss,3613,1
+29,IL,Single Vehicle Collision,Major Damage,15705,1
+44,IN,Vehicle Theft,Total Loss,22306,1
+62,IN,Multi-vehicle Collision,Major Damage,11498,0
+61,IN,Vehicle Theft,Major Damage,1042,0
+61,IN,Vehicle Theft,Major Damage,6365,0
+22,IN,Multi-vehicle Collision,Total Loss,9773,1
+68,IN,Single Vehicle Collision,Minor Damage,11158,0
+61,OH,Single Vehicle Collision,Major Damage,12385,0
+31,OH,Parked Car,Total Loss,20134,0
+40,IL,Multi-vehicle Collision,Total Loss,21503,0
+27,IN,Parked Car,Total Loss,9724,0
+74,IL,Vehicle Theft,Total Loss,20583,0
+52,IN,Multi-vehicle Collision,Major Damage,19431,0
+62,IN,Parked Car,Major Damage,23897,1
+62,OH,Multi-vehicle Collision,Minor Damage,6703,1
+50,IL,Parked Car,Total Loss,11433,0
+28,OH,Parked Car,Total Loss,14573,1
+37,IN,Single Vehicle Collision,Minor Damage,20401,1
+64,IL,Multi-vehicle Collision,Major Damage,24275,1
+59,IL,Multi-vehicle Collision,Major Damage,8103,1
+33,OH,Single Vehicle Collision,Minor Damage,17155,0
+61,IN,Single Vehicle Collision,Minor Damage,9063,0
+69,IL,Vehicle Theft,Total Loss,17169,0
+60,IN,Multi-vehicle Collision,Major Damage,16000,0
+68,IL,Parked Car,Major Damage,20547,0
+27,IL,Vehicle Theft,Minor Damage,22056,0
+37,IN,Multi-vehicle Collision,Major Damage,21487,1
+49,IN,Single Vehicle Collision,Total Loss,19679,1
+58,OH,Single Vehicle Collision,Total Loss,5284,1
+56,IL,Vehicle Theft,Minor Damage,8788,0
+46,IN,Parked Car,Minor Damage,19093,0
+48,OH,Multi-vehicle Collision,Total Loss,10507,1
+42,IL,Vehicle Theft,Minor Damage,9521,1
+66,OH,Multi-vehicle Collision,Minor Damage,13893,1
+75,IL,Multi-vehicle Collision,Total Loss,15145,0
+71,IL,Multi-vehicle Collision,Minor Damage,24369,0
+35,OH,Multi-vehicle Collision,Major Damage,20521,1
+22,IL,Vehicle Theft,Minor Damage,17661,1
+37,IN,Vehicle Theft,Major Damage,4024,1
+59,OH,Parked Car,Major Damage,22671,1
+29,OH,Parked Car,Minor Damage,17387,0
+67,OH,Single Vehicle Collision,Total Loss,5855,1
+63,OH,Multi-vehicle Collision,Minor Damage,8531,0
+26,IL,Multi-vehicle Collision,Minor Damage,11067,0
+47,OH,Parked Car,Total Loss,16675,1
+50,OH,Vehicle Theft,Major Damage,14310,1
+36,IN,Multi-vehicle Collision,Minor Damage,5617,1
+25,IL,Parked Car,Major Damage,5354,0
+74,IN,Vehicle Theft,Total Loss,18530,0
+40,OH,Multi-vehicle Collision,Minor Damage,20068,1
+45,OH,Parked Car,Minor Damage,13880,0
+26,IN,Single Vehicle Collision,Total Loss,16040,0
+57,IL,Multi-vehicle Collision,Minor Damage,15596,0
+21,OH,Single Vehicle Collision,Total Loss,23413,1
+71,IN,Parked Car,Minor Damage,8453,0
+34,IL,Vehicle Theft,Major Damage,7093,0
+70,IN,Parked Car,Total Loss,18218,1
+43,IN,Parked Car,Total Loss,7832,1
+38,OH,Vehicle Theft,Minor Damage,9746,0
+34,OH,Parked Car,Major Damage,20127,0
+67,IN,Single Vehicle Collision,Minor Damage,7421,1
+66,IL,Single Vehicle Collision,Minor Damage,17867,1
+55,IL,Single Vehicle Collision,Minor Damage,13513,0
+37,OH,Parked Car,Major Damage,14241,0
+65,IL,Single Vehicle Collision,Total Loss,3822,0
+31,IL,Parked Car,Major Damage,8331,0
+66,OH,Multi-vehicle Collision,Total Loss,8638,1
+24,IL,Vehicle Theft,Minor Damage,16740,0
+43,IN,Single Vehicle Collision,Major Damage,10964,0
+62,IN,Single Vehicle Collision,Total Loss,17969,0
+46,IN,Single Vehicle Collision,Minor Damage,10531,0
+42,IL,Multi-vehicle Collision,Major Damage,14939,1
+45,IN,Vehicle Theft,Major Damage,10638,0
+70,IN,Parked Car,Minor Damage,8139,1
+55,IN,Multi-vehicle Collision,Minor Damage,16034,0
+38,OH,Vehicle Theft,Major Damage,20095,0
+53,IL,Single Vehicle Collision,Total Loss,22518,0
+21,IL,Multi-vehicle Collision,Minor Damage,7057,0
+21,IL,Vehicle Theft,Total Loss,2750,1
+23,OH,Parked Car,Minor Damage,10026,1
+73,IL,Single Vehicle Collision,Minor Damage,12413,1
+28,OH,Vehicle Theft,Major Damage,24384,1
+72,IL,Vehicle Theft,Total Loss,13488,0
+70,IN,Single Vehicle Collision,Minor Damage,5608,1
+47,IL,Parked Car,Major Damage,9261,0
+37,IL,Parked Car,Total Loss,3677,0
+71,IN,Parked Car,Total Loss,12889,0
+59,IN,Multi-vehicle Collision,Major Damage,16765,1
+36,IL,Parked Car,Minor Damage,12748,0
+45,IN,Single Vehicle Collision,Total Loss,6235,0
+30,IN,Vehicle Theft,Total Loss,8202,0
+58,OH,Vehicle Theft,Major Damage,11244,1
+72,IN,Vehicle Theft,Total Loss,19766,1
+27,OH,Single Vehicle Collision,Major Damage,5763,0
+27,OH,Multi-vehicle Collision,Total Loss,1564,1
+49,IN,Vehicle Theft,Total Loss,3955,0
+37,OH,Single Vehicle Collision,Major Damage,23189,0
+26,OH,Parked Car,Major Damage,18981,0
+57,IN,Vehicle Theft,Total Loss,14057,0
+28,IL,Vehicle Theft,Major Damage,2124,1
